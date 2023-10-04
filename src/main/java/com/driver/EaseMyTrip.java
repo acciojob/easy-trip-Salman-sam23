@@ -8,7 +8,6 @@ public class EaseMyTrip {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EaseMyTrip.class, args);
-		
 	}
 
 }

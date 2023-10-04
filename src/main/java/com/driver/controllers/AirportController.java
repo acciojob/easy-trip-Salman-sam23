@@ -20,7 +20,7 @@ public class AirportController {
     public String addAirport(@RequestBody Airport airport){
 
         //Simply add airport details to your database
-        //Return a String message "SUCCESS sal" 
+        //Return a String message "SUCCESS"
 
         return "SUCCESS";
     }
